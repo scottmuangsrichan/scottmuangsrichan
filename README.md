@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @scottmuangsrichan
 - 👀 I’m interested in developing software the helps people. Also into MMA.
-- 🌱 Front-end developer working with the MERN stack. Currently learning more about React and Next.js
+- 🌱 Working with the MERN stack. Currently learning more about React and Next.js
 - 💞️ I’m looking to collaborate on any project that pushes me to be a better developer.
 - 📫 How to reach me -> Follow my socials down below or email me at scott@modernphase.io
 - Instagram: @scottmuangsrichan
