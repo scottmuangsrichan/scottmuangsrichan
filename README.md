@@ -6,6 +6,7 @@
 - Instagram: @scottmuangsrichan
 - Twitter: @smuangsrichan
 - TikTok: @scottmuangsrichan
+- LinkedIn: https://www.linkedin.com/in/scott-muangsrichan-a23951193/
 
 <!---
 scottmuangsrichan/scottmuangsrichan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
