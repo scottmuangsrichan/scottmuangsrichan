@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @scottmuangsrichan
-- 👀 Working with Angular and TypeScript at the moment. Backend build with C# and .NET Framework.
+- 👀 NextJS + Tailwind CSS
 - 💞️ I’m looking to collaborate on any project that pushes me to be a better developer.
 - 📫 How to reach me -> Follow my socials down below or email me at scott@modernphase.io
 - Instagram: https://www.instagram.com/scottmuangsrichan/ 
