@@ -1,8 +1,16 @@
-Daily used tech:
+Tech stack I am using at the moment.
 JavaScript
 React
 NextJs
 TailwindCSS
+Prisma
+MySQL DB on AWS
+
+INTENTIONS ( Goals ):
+Build a CRUD app with a GO backend & a vanilla JS frontend. 
+ - Ideally I would like to focus on building with what is available in a given language.
+ - This should give me an idea of how GO works. Plus its good for me to work with VanillaJS
+
 
 Socials down below:
 - Instagram: https://www.instagram.com/scottmuangsrichan/ 
