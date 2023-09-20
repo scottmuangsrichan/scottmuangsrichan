@@ -7,10 +7,13 @@ Prisma
 MySQL DB on AWS
 
 INTENTIONS ( Goals ):
+Software dev skillset:
 Build a CRUD app with a GO backend & a vanilla JS frontend. 
  - Ideally I would like to focus on building with what is available in a given language.
  - This should give me an idea of how GO works. Plus its good for me to work with VanillaJS
 
+Business:
+Get current MVPs out to market before the end of the year.
 
 Socials down below:
 - Instagram: https://www.instagram.com/scottmuangsrichan/ 
