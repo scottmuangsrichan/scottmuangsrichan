@@ -1,6 +1,6 @@
-Me use to suck at coding. Me still suck at coding.
+###Me use to suck at coding. Me still suck at coding.
 
-##Focus:
+Focus:
  Building Modern Phase, ecommerce focused development for business owners,
 
 Main language used daily:
