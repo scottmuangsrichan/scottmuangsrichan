@@ -1,4 +1,4 @@
-###Me use to suck at coding. Me still suck at coding.
+### Me use to suck at coding. Me still suck at coding.
 
 Focus:
  Building Modern Phase, ecommerce focused development for business owners,
