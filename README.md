@@ -23,6 +23,7 @@ Modern Phase
    - Performance issues
    - Store design & styling to increase user experience
    - Custom user interface for a better customer shopping experience
+
 Work Grunt Monkey
 - Personal website
   - Includes:
