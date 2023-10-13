@@ -1,19 +1,34 @@
-Tech stack I am using at the moment.
-JavaScript
+Me use to suck at coding. Me still suck at coding.
+
+##Focus:
+ Building Modern Phase, ecommerce focused development for business owners,
+
+Main language used daily:
+JavaScript 
+
+Tech stack used most days:
+JavaScript 
 React
 NextJs
 TailwindCSS
-Prisma
-MySQL DB on AWS
-
-INTENTIONS ( Goals ):
-Software dev skillset:
-Build a CRUD app with a GO backend & a vanilla JS frontend. 
- - Ideally I would like to focus on building with what is available in a given language.
- - This should give me an idea of how GO works. Plus its good for me to work with VanillaJS
+Prisma (ORM)
+MySQL DB running on AWS RDS
 
 Business:
-Get current MVPs out to market before the end of the year.
+Modern Phase
+- Solo development company focused on ecommerce development for business owners wanting to dominate their online space.
+- Incluldes Done For You service for
+   - Shopify initial store setup
+   - Debugging current store
+   - Performance issues
+   - Store design & styling to increase user experience
+   - Custom user interface for a better customer shopping experience
+Work Grunt Monkey
+- Personal website
+  - Includes:
+     - Annoucements of apps I dropped
+     - Content documenting the thinking process of being a business minded dev
+     - ***More to be included
 
 Socials down below:
 - Instagram: https://www.instagram.com/scottmuangsrichan/ 
