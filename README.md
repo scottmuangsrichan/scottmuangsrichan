@@ -1,10 +1,4 @@
-Tech stack
-JavaScript 
-React
-NextJs
-TailwindCSS
-Prisma (ORM)
-MySQL DB running on AWS RDS
+Build sell repeat.
 
 Socials down below:
 - Instagram: https://www.instagram.com/scottmuangsrichan/ 
