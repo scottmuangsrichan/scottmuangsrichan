@@ -5,7 +5,7 @@ Socials down below:
 - Twitter: https://twitter.com/SMuangsrichan
 - TikTok: https://www.tiktok.com/@scottmuang
 - LinkedIn: https://www.linkedin.com/in/scott-muangsrichan-a23951193/
-- Website: https://workgruntmonkey.com
+- Website: https://modernphase.io
 
 <!---
 scottmuangsrichan/scottmuangsrichan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
