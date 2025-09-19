@@ -1,3 +1,5 @@
+Ready to level up your dev business? Join Building Coder Commit on Skool for weekly playbooks, code reviews, and a private community of entrepreneurial developers. Join now → https://www.skool.com/coder-commit-8354/about
+
 Build sell repeat.
 
 Socials down below:
